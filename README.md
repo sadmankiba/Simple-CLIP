@@ -21,6 +21,8 @@ pytest
 
 ## Result
 
+Training a few epochs gives sufficiently good results. Each epoch takes about 5 minutes on a P100 GPU. 
+
 **Query**: "People enjoying themselves in a park"  
 **Images**:  
 ![matches](figures/matches.png)
